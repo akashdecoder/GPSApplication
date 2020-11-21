@@ -5,3 +5,6 @@ this Project shows how exactly GPS Works inside. How the GPS recievers get the G
 
 ## NMEA Protocol (http://aprs.gids.nl/nmea/)
 
+## DLLS in Visual Studio Code
+
+https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=vs-2019#:~:text=To%20create%20a%20DLL%20project%20in%20Visual%20Studio%202017&text=In%20the%20left%20pane%20of,Location%20and%20Solution%20name%20values.
